@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Aviso
+  - Task2
+  - Task1
+  - tabs
+  - "Ca\xE7ar1"
+  - "Ca\xE7ar2"
+  - "Ca\xE7ar3"
+  - Barril
+  - Hunter
+  - Emote1
+  - Task3
+  - Bullet
+  - Certo
+  - Errado
+  - Water
+  - teste
+  - wand1
+  - wand2
+  - wand3
+  - wand4
+  - churchPortal
+  - Houses
+  - MainHud
+  - Task4
+  - churchPortalBack
+  - wand5
+  - wand6
+  - Task5
+  - Task6
+  - Task7
+  - Task8
+  - Flowers
+  - TheBreach
+  - Artefact1
+  - Artefact2
+  - Artefact3
+  - churchIsOn
+  - Shop
+  - Witch
+  - Witch2
+  - Witch3
+  - PortalArea
+  - CityArea
+  - ForestArea
+  - LakeArea
+  - CemeteryArea
+  - WitchA
+  - WitchB
+  - WitchC
+  - HunterA
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - MiniMap
+  - Volume
+  - Glass
+  - Player
+  - Mesa
+  - porta
+  - Player_Map
+  - Map/Scene_Object
+  - Light
+  - Portal
+  - Houses
+  - Pole
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

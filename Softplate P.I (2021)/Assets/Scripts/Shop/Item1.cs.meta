@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f9aaceaa22a41c45b2355ecc4627a9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pv: {instanceID: 0}
+  - InviMaterial: {fileID: 2100000, guid: 9a21fb6cc25f1e043a9563cf043d4c22, type: 2}
+  - defaultMaterial: {fileID: 2100000, guid: 9121c5372c312e24badbff9323edfd95, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
